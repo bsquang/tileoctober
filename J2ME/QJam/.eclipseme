@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipsemeMetadata jad="QJam.jad" version="1.7.9">
+   <device group="LG SDK 1.4 for the Java(TM) ME Platform" name="KM900"/>
+   <signing signProject="false"/>
+</eclipsemeMetadata>
